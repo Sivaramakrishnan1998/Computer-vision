@@ -8,10 +8,11 @@
 - Complete deep learning for computer vision book by adrian rosebrock
 
 ## part 2
-
+- Complete Grokking Deep Learning Book by Andrew Trask
 - Complete Practical python and opencv book by adrian rosebrock
 - learn pytorch by sentdex pytorch [videos](https://www.youtube.com/user/sentdex/playlists)
 - Complete fastai deep learning course [course 1 and course 2](https://course.fast.ai/)
+
 
 ## part 3
 

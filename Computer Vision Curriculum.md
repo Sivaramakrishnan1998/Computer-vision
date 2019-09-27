@@ -5,6 +5,7 @@
 - Calculus http://tutorial.math.lamar.edu/pdf/Calculus_Cheat_Sheet_All.pdf 
 - Linear Algebra https://www.souravsengupta.com/cds2016/lectures/Savov_Notes.pdf 
 - Complete Mastering Computer Vision Udemy Course 
+- Complete Computer Vision Nanodegree
 - Complete deep learning for computer vision book by adrian rosebrock
 
 ## part 2
